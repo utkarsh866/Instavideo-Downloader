@@ -1,2 +1,2 @@
 # Instavideo-Downloader
-This is intavideo downloader app
+This is insta video downloader app
